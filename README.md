@@ -1,4 +1,4 @@
-# 30 Days of JavaScript Projects
+# 30 Days of JavaScript Challenge 
 ## This repository is my personal playground for mastering JavaScript through 30 engaging projects!
 
 ### Inspired from [Javascript 30](https://javascript30.com/).
