@@ -5,6 +5,7 @@
 #### Have a look live view.
 
 > Day -1: https://javascript-day-1-drum-kit.netlify.app/
+> Day -2: https://javascript-day-2-digital-clock.netlify.app/
 
 
  
