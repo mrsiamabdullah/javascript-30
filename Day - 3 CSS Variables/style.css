@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --base: #8000ff;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+img {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+  width: 675px;
+  height: auto;
+}
+
+.change__color {
+  color: var(--base);
+}
+
+body {
+  text-align: center;
+  color: #000;
+  font-family: monospace, sans-serif;
+  font-size: 45px;
+}
+
+.main {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+input {
+  width: 100px;
+}
